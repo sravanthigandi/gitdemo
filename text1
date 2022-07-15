@@ -4,3 +4,5 @@ it cam make hard for developers to understand the history of the project
 git rebase- intergrated the changes made in feature branch to main brach but here the commit history is very clean 
 the main advantage of this is to main the history it is easy for developers to read the history of the project.
 git rebase can never use in public history 
+
+
